@@ -5,7 +5,7 @@ There isn't much to see here. I use GitHub for side projects, proof of concepts,
 Some other things to do: 
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/drewnull/).
 * Read my occasional post at the [Optimizely Developer Community Blog](https://world.optimizely.com/blogs/drew-null/).
-* Check out my wife's website: [Lipeng Chen Music](https://www.lipengchen.com). This was my foray into the jamstack with Gatsby and Netlify, and was a lot of fun to design and build. 
+* Check out my wife's website: [Lipeng Chen Music](https://www.lipengchen.com). This was my foray into the jamstack with Gatsby and Netlify, and was very fun to design and build. 
 
 Thanks for visiting!
 
