@@ -9,6 +9,8 @@ Some other things to do&mdash;
 
 Thanks for visiting!
 
-`// Drew`
+```ts
+// Drew
+```
 
 ![Drew and Lipeng](https://pbs.twimg.com/profile_images/1288527085066223616/kfY2tKL__400x400.jpg)
