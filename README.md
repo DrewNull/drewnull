@@ -1,6 +1,8 @@
 ### Hello!
 
-There isn't much to see here. I use GitHub for hobbies, prototypes, and developer community stuff. 
+There isn't much to see here. I use GitHub for hobbies and prototypes. 
+
+Some other things to do:
 
 * Connect with me on <a href="https://www.linkedin.com/in/drewnull/" rel="noreferrer noopener" target="_blank">LinkedIn</a>
 * Check out my wife's website: <a href="https://www.lipengchen.com" rel="noreferrer noopener" target="_blank">Lipeng Chen Music</a>
